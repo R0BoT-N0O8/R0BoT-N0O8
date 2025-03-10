@@ -11,7 +11,7 @@ while (true) <br />
     System.Threading.Thread.Sleep(12345); // funni number <br />
 } <br />
 
-// Encrypted Message for [INSERT_NAME_HERE]. Please ignore.. <br />
+// Encrypted Message for [System_Administrator]. Please ignore.. <br />
 
 085859945315145254599525875947050814921050899 <br />
 5831525085535124 <br />
