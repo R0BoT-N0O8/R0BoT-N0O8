@@ -6,4 +6,5 @@ while (true) <br />
     System.Threading.Thread.Sleep(12345); // funni number <br />
 } <br />
 
-![apua](https://github.com/user-attachments/assets/44ea624e-f1b7-4371-84ec-179140277add)
+[![apua](https://github.com/user-attachments/assets/44ea624e-f1b7-4371-84ec-179140277add)](https://open.spotify.com/track/5hleT1QkSMFzV4JBVTBkUa?si=f0494b650a094f0f)
+
