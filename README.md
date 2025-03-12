@@ -6,4 +6,5 @@ while (true) <br />
     System.Threading.Thread.Sleep(12345); // funni number <br />
 } <br />
 
-![apua](https://github.com/user-attachments/assets/14ecfe4d-7c8e-4218-adad-135238b8c106)
+https://github.com/user-attachments/assets/27401c75-bfb7-4a13-b3cb-47c10bffea53
+
